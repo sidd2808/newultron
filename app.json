@@ -40,7 +40,7 @@
             "required": true,
             "value": "get it from https://ocr.space/"
         },
-        "WAPI": {
+        "WAPSI": {
             "description": "Put your API key for weather",
             "required": true,
             "value": "get it from https://openweathermap.org/"

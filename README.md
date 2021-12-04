@@ -25,7 +25,7 @@
         ULTRONIX: Put Any Preferred PREFIX
         CCD: Put Your Country Code
         OCR: Put your Optical Character Recognition API key
-        WAPI: Put your API key for weather  
+        WAPSI: Put your API key for weather  
 ```
 
 

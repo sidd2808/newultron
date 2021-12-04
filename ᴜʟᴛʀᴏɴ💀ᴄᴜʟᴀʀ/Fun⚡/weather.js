@@ -4,7 +4,7 @@
 const { MessageType, Mimetype } = require(`@adiwajshing/baileys`);
 const UltronSitreper = require(`../../ᴜʟᴛʀᴏɴ/UltronSitreper`);
 const ℓιєηт = require("../../ᴜʟᴛʀᴏɴ/catch");
-const apiKey = UltronSitreper.WAPI;
+const apiKey = UltronSitreper.WAPSI;
 const https = require(`https`);
 // ➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛➛
 module.exports = {
