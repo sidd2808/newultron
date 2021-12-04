@@ -6,7 +6,7 @@ RUN apt update
 RUN apt update && apt upgrade -y && apt install git -y && apt install python3 -y && apt install python3-pip -y && apt install -y ffmpeg opus-tools bpm-tools && apt-get install curl -y 
 RUN curl -sL https://deb.nodesource.com/setup_17.x | bash -
 RUN apt install nodejs -y
-RUN git clone https://github.com/Krakinz/Ultron.git
+RUN git clone https://github.com/sidd2808/newultron.git
 RUN cd Ultron
 WORKDIR /Ultron
 RUN npm install 

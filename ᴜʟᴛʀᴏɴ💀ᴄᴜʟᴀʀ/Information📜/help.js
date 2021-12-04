@@ -110,7 +110,7 @@ module.exports = {
 
 𝐆𝐢𝐭𝐇𝐮𝐛🧀
 🔗DEV: https://github.com/sidd2808
-🔗ULTRON: https://github.com
+
 
 _⚠️Bot Not Ready Yet_`,
           sections: [
